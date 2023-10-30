@@ -2,6 +2,8 @@
 
 Sick of unfair VDM on your FiveM server? Nova Anti-VDM is here. Stop reckless vehicle hits, promote fairness, elevate gameplay. Get it now, say no to VDM, yes to better gaming.
 
+# Preview
+![antivdm](https://cdn.discordapp.com/attachments/1138869081240514687/1168526910448480326/7648d46174fa7ad10266503e6bc002eeccb1c7e6.jpg?ex=6552167d&is=653fa17d&hm=df3446bdc0861012527573ba1d5ca0bf4694e53feb03b3c3d342f83beb05780b&)
 
 [Support](https://discord.gg/HNhCsR9cHU)
 
